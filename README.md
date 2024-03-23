@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) lightweight project starter template bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Check my [post](https://aymericrobert.fr/blog/setup-nextjs-app) to see details on how to create this app.
+
 ## Getting Started
 
 First, install dependencies : 
